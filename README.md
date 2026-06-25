@@ -67,7 +67,6 @@ from sleek mobile apps to clean data pipelines, i believe good code can be both 
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/astridgrace/astridgrace/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> 💡 **Pour activer le snake** : lance le workflow `snake.yml` une première fois manuellement depuis l'onglet *Actions* → *Generate Snake* → *Run workflow*. Cela crée la branche `output` et génère les SVGs. Ensuite supprime cette ligne du README 🌸
 
 </div>
 
