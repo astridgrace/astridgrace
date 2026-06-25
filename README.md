@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**hey there 🌸** — i'm a developer who loves building beautiful, thoughtful things.  
+**hey there 🌸** i'm a developer who loves building beautiful, thoughtful things.  
 from sleek mobile apps to clean data pipelines, i believe good code can be both functional *and* elegant.
 
 </div>
@@ -27,11 +27,7 @@ from sleek mobile apps to clean data pipelines, i believe good code can be both 
 ![SQL](https://img.shields.io/badge/SQL-E1F5EE?style=for-the-badge&logo=postgresql&logoColor=085041)
 
 ![React](https://img.shields.io/badge/React-EEEDFE?style=for-the-badge&logo=react&logoColor=3C3489)
-![Next.js](https://img.shields.io/badge/Next.js-fbeaf0?style=for-the-badge&logo=next.js&logoColor=993556)
 ![Flutter](https://img.shields.io/badge/Flutter-E1F5EE?style=for-the-badge&logo=flutter&logoColor=085041)
-![FastAPI](https://img.shields.io/badge/FastAPI-FAEEDA?style=for-the-badge&logo=fastapi&logoColor=633806)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E1F5EE?style=for-the-badge&logo=postgresql&logoColor=085041)
 ![Git](https://img.shields.io/badge/Git-fbeaf0?style=for-the-badge&logo=git&logoColor=993556)
 ![VS Code](https://img.shields.io/badge/VS_Code-EEEDFE?style=for-the-badge&logo=visual-studio-code&logoColor=3C3489)
 
@@ -68,8 +64,10 @@ from sleek mobile apps to clean data pipelines, i believe good code can be both 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astridgrace/astridgrace/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astridgrace/astridgrace/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/astridgrace/astridgrace/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/astridgrace/astridgrace/output/github-contribution-grid-snake.svg" />
 </picture>
+
+> 💡 **Pour activer le snake** : lance le workflow `snake.yml` une première fois manuellement depuis l'onglet *Actions* → *Generate Snake* → *Run workflow*. Cela crée la branche `output` et génère les SVGs. Ensuite supprime cette ligne du README 🌸
 
 </div>
 
