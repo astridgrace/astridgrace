@@ -1,81 +1,32 @@
-<div align="center">
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FBEAF0,50:EEEDFE,100:E1F5EE&text=Astrid%20Grace&fontSize=48&fontColor=993556&fontAlignY=36&desc=soft%20code%20%7C%20clean%20interfaces%20%7C%20thoughtful%20systems&descSize=15&descAlignY=58&animation=fadeIn" 
+    alt="Astrid Grace banner"
+  />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=160&section=header&text=Astrid%20Grace&fontSize=42&fontColor=fff&fontAlignY=38&desc=full-stack%20developer%20✿&descAlignY=58&descSize=16" width="100%" />
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=993556&center=true&vCenter=true&width=650&lines=developer+with+a+soft+spot+for+beautiful+interfaces;building+mobile+apps%2C+web+experiences+and+data+flows;clean+code%2C+soft+UI%2C+thoughtful+details+%E2%9C%A8" 
+    alt="Typing SVG"
+  />
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-**hey there 🌸** i'm a developer who loves building beautiful, thoughtful things.  
-from sleek mobile apps to clean data pipelines, i believe good code can be both functional *and* elegant.
-
-</div>
-
-<br/>
-
----
-
-### ✿ &nbsp; stack technique
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-fbeaf0?style=for-the-badge&logo=python&logoColor=993556)
-![Dart](https://img.shields.io/badge/Dart-EEEDFE?style=for-the-badge&logo=dart&logoColor=3C3489)
-![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=for-the-badge&logo=javascript&logoColor=633806)
-![SQL](https://img.shields.io/badge/SQL-E1F5EE?style=for-the-badge&logo=postgresql&logoColor=085041)
-
-![React](https://img.shields.io/badge/React-EEEDFE?style=for-the-badge&logo=react&logoColor=3C3489)
-![Flutter](https://img.shields.io/badge/Flutter-E1F5EE?style=for-the-badge&logo=flutter&logoColor=085041)
-![Git](https://img.shields.io/badge/Git-fbeaf0?style=for-the-badge&logo=git&logoColor=993556)
-![VS Code](https://img.shields.io/badge/VS_Code-EEEDFE?style=for-the-badge&logo=visual-studio-code&logoColor=3C3489)
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=astridgrace&label=profile%20views&color=F4A7B9&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/astridgrace?label=followers&style=for-the-badge&color=EEEDFE&labelColor=FBEAF0" alt="GitHub followers" />
+</p>
 
 ---
 
-### 🌷 &nbsp; github stats
+## ✿ hey there
 
-<div align="center">
+```python
+class AstridGrace:
+    role = "Developer"
+    mood = "soft, curious & creative"
+    focus = ["mobile apps", "web interfaces", "data pipelines", "automation"]
+    values = ["clean code", "thoughtful design", "elegant solutions"]
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=astridgrace&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fdf4ff&title_color=c2607a&icon_color=8a4fad&text_color=6b4f72&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astridgrace&layout=compact&theme=rose_pine&hide_border=true&bg_color=fdf4ff&title_color=c2607a&text_color=6b4f72&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=astridgrace&theme=rose_pine&hide_border=true&background=fdf4ff&stroke=f7c8da&ring=c2607a&fire=e0b8f0&currStreakLabel=8a4fad&sideLabels=c2607a&dates=8a7b8c" />
-
-</div>
-
-<br/>
-
----
-
-### 🐍 &nbsp; contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astridgrace/astridgrace/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astridgrace/astridgrace/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/astridgrace/astridgrace/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=100&section=footer" width="100%" />
-
-</div>
+    def build(self):
+        return "functional things with a touch of beauty ✨"
